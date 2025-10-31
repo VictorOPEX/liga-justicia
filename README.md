@@ -3,10 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-
-### Cambios desde GitHub online
-
-Actualizacion para probar la integracion de commits desde GitHub online
+## Estos cambios son nuevos
